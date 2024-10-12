@@ -1,0 +1,770 @@
+{
+  "@chats": {
+    "51974609575@s.whatsapp.net": {
+      "isBan": false,
+      "settings": {
+        "detect": {
+          "detect": false,
+          "SOLO_LATAM": false,
+          "BIENVENIDA": false,
+          "DESPEDIDA": false,
+          "VERIFICACION": false,
+          "ANNOUNCE": false,
+          "RESTRICT": false,
+          "INVITE_LINK": false,
+          "SUBJECT": false,
+          "ICON": false,
+          "MEMBER_ADD_MODE": false,
+          "DEMOTE": false,
+          "PROMOTE": false
+        },
+        "antiLink": {
+          "antiLink": false,
+          "WhatsApp": true,
+          "Discord": false,
+          "facebook": false,
+          "YouTube": false,
+          "TikTok": false,
+          "Telegram": false,
+          "X": false
+        },
+        "antiDelete": {
+          "antiDelete": false,
+          "audio": true,
+          "video": true,
+          "image": true,
+          "message": true
+        },
+        "antiOnce": {
+          "antiOnce": false,
+          "audio": true,
+          "video": true,
+          "image": true,
+          "admin": false
+        }
+      }
+    },
+    "120363319573642795@g.us": {
+      "isBan": false,
+      "settings": {
+        "detect": {
+          "detect": false,
+          "SOLO_LATAM": false,
+          "BIENVENIDA": false,
+          "DESPEDIDA": false,
+          "VERIFICACION": false,
+          "ANNOUNCE": false,
+          "RESTRICT": false,
+          "INVITE_LINK": false,
+          "SUBJECT": false,
+          "ICON": false,
+          "MEMBER_ADD_MODE": false,
+          "DEMOTE": false,
+          "PROMOTE": false
+        },
+        "antiLink": {
+          "antiLink": false,
+          "WhatsApp": true,
+          "Discord": false,
+          "facebook": false,
+          "YouTube": false,
+          "TikTok": false,
+          "Telegram": false,
+          "X": false
+        },
+        "antiDelete": {
+          "antiDelete": false,
+          "audio": true,
+          "video": true,
+          "image": true,
+          "message": true
+        },
+        "antiOnce": {
+          "antiOnce": false,
+          "audio": true,
+          "video": true,
+          "image": true,
+          "admin": false
+        }
+      }
+    },
+    "51974245775@s.whatsapp.net": {
+      "isBan": false,
+      "settings": {
+        "detect": {
+          "detect": false,
+          "SOLO_LATAM": false,
+          "BIENVENIDA": false,
+          "DESPEDIDA": false,
+          "VERIFICACION": false,
+          "ANNOUNCE": false,
+          "RESTRICT": false,
+          "INVITE_LINK": false,
+          "SUBJECT": false,
+          "ICON": false,
+          "MEMBER_ADD_MODE": false,
+          "DEMOTE": false,
+          "PROMOTE": false
+        },
+        "antiLink": {
+          "antiLink": false,
+          "WhatsApp": true,
+          "Discord": false,
+          "facebook": false,
+          "YouTube": false,
+          "TikTok": false,
+          "Telegram": false,
+          "X": false
+        },
+        "antiDelete": {
+          "antiDelete": false,
+          "audio": true,
+          "video": true,
+          "image": true,
+          "message": true
+        },
+        "antiOnce": {
+          "antiOnce": false,
+          "audio": true,
+          "video": true,
+          "image": true,
+          "admin": false
+        }
+      }
+    },
+    "120363247141297757@g.us": {
+      "isBan": false,
+      "settings": {
+        "detect": {
+          "detect": false,
+          "SOLO_LATAM": false,
+          "BIENVENIDA": false,
+          "DESPEDIDA": false,
+          "VERIFICACION": false,
+          "ANNOUNCE": false,
+          "RESTRICT": false,
+          "INVITE_LINK": false,
+          "SUBJECT": false,
+          "ICON": false,
+          "MEMBER_ADD_MODE": false,
+          "DEMOTE": false,
+          "PROMOTE": false
+        },
+        "antiLink": {
+          "antiLink": false,
+          "WhatsApp": true,
+          "Discord": false,
+          "facebook": false,
+          "YouTube": false,
+          "TikTok": false,
+          "Telegram": false,
+          "X": false
+        },
+        "antiDelete": {
+          "antiDelete": false,
+          "audio": true,
+          "video": true,
+          "image": true,
+          "message": true
+        },
+        "antiOnce": {
+          "antiOnce": false,
+          "audio": true,
+          "video": true,
+          "image": true,
+          "admin": false
+        }
+      }
+    },
+    "120363225089449346@g.us": {
+      "isBan": false,
+      "settings": {
+        "detect": {
+          "detect": false,
+          "SOLO_LATAM": false,
+          "BIENVENIDA": false,
+          "DESPEDIDA": false,
+          "VERIFICACION": false,
+          "ANNOUNCE": false,
+          "RESTRICT": false,
+          "INVITE_LINK": false,
+          "SUBJECT": false,
+          "ICON": false,
+          "MEMBER_ADD_MODE": false,
+          "DEMOTE": false,
+          "PROMOTE": false
+        },
+        "antiLink": {
+          "antiLink": false,
+          "WhatsApp": true,
+          "Discord": false,
+          "facebook": false,
+          "YouTube": false,
+          "TikTok": false,
+          "Telegram": false,
+          "X": false
+        },
+        "antiDelete": {
+          "antiDelete": false,
+          "audio": true,
+          "video": true,
+          "image": true,
+          "message": true
+        },
+        "antiOnce": {
+          "antiOnce": false,
+          "audio": true,
+          "video": true,
+          "image": true,
+          "admin": false
+        }
+      }
+    },
+    "120363284401925857@g.us": {
+      "isBan": false,
+      "settings": {
+        "detect": {
+          "detect": false,
+          "SOLO_LATAM": false,
+          "BIENVENIDA": false,
+          "DESPEDIDA": false,
+          "VERIFICACION": false,
+          "ANNOUNCE": false,
+          "RESTRICT": false,
+          "INVITE_LINK": false,
+          "SUBJECT": false,
+          "ICON": false,
+          "MEMBER_ADD_MODE": false,
+          "DEMOTE": false,
+          "PROMOTE": false
+        },
+        "antiLink": {
+          "antiLink": false,
+          "WhatsApp": true,
+          "Discord": false,
+          "facebook": false,
+          "YouTube": false,
+          "TikTok": false,
+          "Telegram": false,
+          "X": false
+        },
+        "antiDelete": {
+          "antiDelete": false,
+          "audio": true,
+          "video": true,
+          "image": true,
+          "message": true
+        },
+        "antiOnce": {
+          "antiOnce": false,
+          "audio": true,
+          "video": true,
+          "image": true,
+          "admin": false
+        }
+      }
+    },
+    "573243977474@s.whatsapp.net": {
+      "isBan": false,
+      "settings": {
+        "detect": {
+          "detect": false,
+          "SOLO_LATAM": false,
+          "BIENVENIDA": false,
+          "DESPEDIDA": false,
+          "VERIFICACION": false,
+          "ANNOUNCE": false,
+          "RESTRICT": false,
+          "INVITE_LINK": false,
+          "SUBJECT": false,
+          "ICON": false,
+          "MEMBER_ADD_MODE": false,
+          "DEMOTE": false,
+          "PROMOTE": false
+        },
+        "antiLink": {
+          "antiLink": false,
+          "WhatsApp": true,
+          "Discord": false,
+          "facebook": false,
+          "YouTube": false,
+          "TikTok": false,
+          "Telegram": false,
+          "X": false
+        },
+        "antiDelete": {
+          "antiDelete": false,
+          "audio": true,
+          "video": true,
+          "image": true,
+          "message": true
+        },
+        "antiOnce": {
+          "antiOnce": false,
+          "audio": true,
+          "video": true,
+          "image": true,
+          "admin": false
+        }
+      }
+    },
+    "120363297896605982@g.us": {
+      "isBan": false,
+      "settings": {
+        "detect": {
+          "detect": false,
+          "SOLO_LATAM": false,
+          "BIENVENIDA": false,
+          "DESPEDIDA": false,
+          "VERIFICACION": false,
+          "ANNOUNCE": false,
+          "RESTRICT": false,
+          "INVITE_LINK": false,
+          "SUBJECT": false,
+          "ICON": false,
+          "MEMBER_ADD_MODE": false,
+          "DEMOTE": false,
+          "PROMOTE": false
+        },
+        "antiLink": {
+          "antiLink": false,
+          "WhatsApp": true,
+          "Discord": false,
+          "facebook": false,
+          "YouTube": false,
+          "TikTok": false,
+          "Telegram": false,
+          "X": false
+        },
+        "antiDelete": {
+          "antiDelete": false,
+          "audio": true,
+          "video": true,
+          "image": true,
+          "message": true
+        },
+        "antiOnce": {
+          "antiOnce": false,
+          "audio": true,
+          "video": true,
+          "image": true,
+          "admin": false
+        }
+      }
+    },
+    "120363299899214977@g.us": {
+      "isBan": false,
+      "settings": {
+        "detect": {
+          "detect": false,
+          "SOLO_LATAM": false,
+          "BIENVENIDA": false,
+          "DESPEDIDA": false,
+          "VERIFICACION": false,
+          "ANNOUNCE": false,
+          "RESTRICT": false,
+          "INVITE_LINK": false,
+          "SUBJECT": false,
+          "ICON": false,
+          "MEMBER_ADD_MODE": false,
+          "DEMOTE": false,
+          "PROMOTE": false
+        },
+        "antiLink": {
+          "antiLink": false,
+          "WhatsApp": true,
+          "Discord": false,
+          "facebook": false,
+          "YouTube": false,
+          "TikTok": false,
+          "Telegram": false,
+          "X": false
+        },
+        "antiDelete": {
+          "antiDelete": false,
+          "audio": true,
+          "video": true,
+          "image": true,
+          "message": true
+        },
+        "antiOnce": {
+          "antiOnce": false,
+          "audio": true,
+          "video": true,
+          "image": true,
+          "admin": false
+        }
+      }
+    },
+    "120363307180346554@g.us": {
+      "isBan": false,
+      "settings": {
+        "detect": {
+          "detect": false,
+          "SOLO_LATAM": false,
+          "BIENVENIDA": false,
+          "DESPEDIDA": false,
+          "VERIFICACION": false,
+          "ANNOUNCE": false,
+          "RESTRICT": false,
+          "INVITE_LINK": false,
+          "SUBJECT": false,
+          "ICON": false,
+          "MEMBER_ADD_MODE": false,
+          "DEMOTE": false,
+          "PROMOTE": false
+        },
+        "antiLink": {
+          "antiLink": false,
+          "WhatsApp": true,
+          "Discord": false,
+          "facebook": false,
+          "YouTube": false,
+          "TikTok": false,
+          "Telegram": false,
+          "X": false
+        },
+        "antiDelete": {
+          "antiDelete": false,
+          "audio": true,
+          "video": true,
+          "image": true,
+          "message": true
+        },
+        "antiOnce": {
+          "antiOnce": false,
+          "audio": true,
+          "video": true,
+          "image": true,
+          "admin": false
+        }
+      }
+    }
+  },
+  "@users": {
+    "51907182818@s.whatsapp.net": {
+      "isBan": false,
+      "isROwner": true,
+      "isOwner": true,
+      "isModr": true,
+      "isPrem": true,
+      "getname": "",
+      "shortCmd": []
+    },
+    "5351976317@s.whatsapp.net": {
+      "isBan": false,
+      "isROwner": false,
+      "isOwner": false,
+      "isModr": false,
+      "isPrem": false,
+      "getname": "",
+      "shortCmd": []
+    },
+    "51974245775@s.whatsapp.net": {
+      "isBan": false,
+      "isROwner": false,
+      "isOwner": false,
+      "isModr": false,
+      "isPrem": false,
+      "getname": "",
+      "shortCmd": []
+    },
+    "5216671993513@s.whatsapp.net": {
+      "isBan": false,
+      "isROwner": false,
+      "isOwner": true,
+      "isModr": true,
+      "isPrem": true,
+      "getname": "",
+      "shortCmd": []
+    },
+    "50766439524@s.whatsapp.net": {
+      "isBan": false,
+      "isROwner": false,
+      "isOwner": false,
+      "isModr": false,
+      "isPrem": false,
+      "getname": "",
+      "shortCmd": []
+    },
+    "5215617395538@s.whatsapp.net": {
+      "isBan": false,
+      "isROwner": false,
+      "isOwner": false,
+      "isModr": false,
+      "isPrem": false,
+      "getname": "",
+      "shortCmd": []
+    },
+    "573224990167@s.whatsapp.net": {
+      "isBan": false,
+      "isROwner": false,
+      "isOwner": false,
+      "isModr": false,
+      "isPrem": false,
+      "getname": "",
+      "shortCmd": []
+    },
+    "5219624835426@s.whatsapp.net": {
+      "isBan": false,
+      "isROwner": false,
+      "isOwner": false,
+      "isModr": false,
+      "isPrem": false,
+      "getname": "",
+      "shortCmd": []
+    },
+    "5215655979847@s.whatsapp.net": {
+      "isBan": false,
+      "isROwner": false,
+      "isOwner": false,
+      "isModr": false,
+      "isPrem": false,
+      "getname": "",
+      "shortCmd": []
+    },
+    "5213123194301@s.whatsapp.net": {
+      "isBan": false,
+      "isROwner": false,
+      "isOwner": false,
+      "isModr": false,
+      "isPrem": false,
+      "getname": "",
+      "shortCmd": []
+    },
+    "183837736878324@lid": {
+      "isBan": false,
+      "isROwner": false,
+      "isOwner": false,
+      "isModr": false,
+      "isPrem": false,
+      "getname": "",
+      "shortCmd": []
+    },
+    "573244657708@s.whatsapp.net": {
+      "isBan": false,
+      "isROwner": false,
+      "isOwner": false,
+      "isModr": false,
+      "isPrem": false,
+      "getname": "",
+      "shortCmd": []
+    },
+    "51972742388@s.whatsapp.net": {
+      "isBan": false,
+      "isROwner": false,
+      "isOwner": false,
+      "isModr": false,
+      "isPrem": false,
+      "getname": "",
+      "shortCmd": []
+    },
+    "34653063177@s.whatsapp.net": {
+      "isBan": false,
+      "isROwner": false,
+      "isOwner": false,
+      "isModr": false,
+      "isPrem": false,
+      "getname": "",
+      "shortCmd": []
+    },
+    "undefined": {
+      "isBan": false,
+      "isROwner": false,
+      "isOwner": false,
+      "isModr": false,
+      "isPrem": false,
+      "getname": "",
+      "shortCmd": []
+    },
+    "51984754091@s.whatsapp.net": {
+      "isBan": false,
+      "isROwner": false,
+      "isOwner": false,
+      "isModr": false,
+      "isPrem": false,
+      "getname": "",
+      "shortCmd": []
+    },
+    "51984569764@s.whatsapp.net": {
+      "isBan": false,
+      "isROwner": false,
+      "isOwner": false,
+      "isModr": false,
+      "isPrem": false,
+      "getname": "",
+      "shortCmd": []
+    },
+    "573243977474@s.whatsapp.net": {
+      "isBan": false,
+      "isROwner": true,
+      "isOwner": true,
+      "isModr": true,
+      "isPrem": true,
+      "getname": "",
+      "shortCmd": []
+    },
+    "51991534522@s.whatsapp.net": {
+      "isBan": false,
+      "isROwner": false,
+      "isOwner": false,
+      "isModr": false,
+      "isPrem": false,
+      "getname": "",
+      "shortCmd": []
+    },
+    "573206706698@s.whatsapp.net": {
+      "isBan": false,
+      "isROwner": false,
+      "isOwner": false,
+      "isModr": false,
+      "isPrem": false,
+      "getname": "",
+      "shortCmd": []
+    },
+    "59177681849@s.whatsapp.net": {
+      "isBan": false,
+      "isROwner": false,
+      "isOwner": false,
+      "isModr": false,
+      "isPrem": false,
+      "getname": "",
+      "shortCmd": []
+    },
+    "51940344250@s.whatsapp.net": {
+      "isBan": false,
+      "isROwner": false,
+      "isOwner": false,
+      "isModr": false,
+      "isPrem": false,
+      "getname": "",
+      "shortCmd": []
+    },
+    "50360654959@s.whatsapp.net": {
+      "isBan": false,
+      "isROwner": false,
+      "isOwner": false,
+      "isModr": false,
+      "isPrem": false,
+      "getname": "",
+      "shortCmd": []
+    },
+    "5214871104256@s.whatsapp.net": {
+      "isBan": false,
+      "isROwner": false,
+      "isOwner": false,
+      "isModr": false,
+      "isPrem": false,
+      "getname": "",
+      "shortCmd": []
+    },
+    "584122140310@s.whatsapp.net": {
+      "isBan": false,
+      "isROwner": false,
+      "isOwner": false,
+      "isModr": false,
+      "isPrem": false,
+      "getname": "",
+      "shortCmd": []
+    },
+    "51932824964@s.whatsapp.net": {
+      "isBan": false,
+      "isROwner": false,
+      "isOwner": false,
+      "isModr": false,
+      "isPrem": false,
+      "getname": "",
+      "shortCmd": []
+    },
+    "5215533135653@s.whatsapp.net": {
+      "isBan": false,
+      "isROwner": false,
+      "isOwner": false,
+      "isModr": false,
+      "isPrem": false,
+      "getname": "",
+      "shortCmd": []
+    },
+    "59162993937@s.whatsapp.net": {
+      "isBan": false,
+      "isROwner": false,
+      "isOwner": false,
+      "isModr": false,
+      "isPrem": false,
+      "getname": "",
+      "shortCmd": []
+    },
+    "17708968321@s.whatsapp.net": {
+      "isBan": false,
+      "isROwner": false,
+      "isOwner": false,
+      "isModr": false,
+      "isPrem": false,
+      "getname": "",
+      "shortCmd": []
+    },
+    "59167728946@s.whatsapp.net": {
+      "isBan": false,
+      "isROwner": false,
+      "isOwner": false,
+      "isModr": false,
+      "isPrem": false,
+      "getname": "",
+      "shortCmd": []
+    },
+    "51969826882@s.whatsapp.net": {
+      "isBan": false,
+      "isROwner": false,
+      "isOwner": false,
+      "isModr": false,
+      "isPrem": false,
+      "getname": "",
+      "shortCmd": []
+    },
+    "5219994992256@s.whatsapp.net": {
+      "isBan": false,
+      "isROwner": false,
+      "isOwner": false,
+      "isModr": false,
+      "isPrem": false,
+      "getname": "",
+      "shortCmd": []
+    },
+    "51993526887@s.whatsapp.net": {
+      "isBan": false,
+      "isROwner": false,
+      "isOwner": false,
+      "isModr": false,
+      "isPrem": false,
+      "getname": "",
+      "shortCmd": []
+    },
+    "48241626325217@lid": {
+      "isBan": false,
+      "isROwner": false,
+      "isOwner": false,
+      "isModr": false,
+      "isPrem": false,
+      "getname": "",
+      "shortCmd": []
+    },
+    "5491168141409@s.whatsapp.net": {
+      "isBan": false,
+      "isROwner": false,
+      "isOwner": false,
+      "isModr": false,
+      "isPrem": false,
+      "getname": "",
+      "shortCmd": []
+    }
+  },
+  "@bot": {
+    "51907182818@s.whatsapp.net": {
+      "objecto": {},
+      "SubBots": {},
+      "autoread": false,
+      "OwnerUse": false,
+      "antiPrivado": false
+    }
+  }
+}
