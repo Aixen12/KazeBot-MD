@@ -47,7 +47,7 @@ command.script = async (m, { conn }) => {
 ╷ *Tamaño:* ${info.tamaño}
 ╰───────────────◯`;
 
-    const RepoImg = 'https://images.alphacoders.com/137/1377787.jpg';
+    const RepoImg = 'https://pomf2.lain.la/f/jlyp93ps.png';
 
     await conn.sendMessage(m.chat.id, {
         image: { url: RepoImg },
